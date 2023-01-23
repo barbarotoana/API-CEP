@@ -1,0 +1,12 @@
+.DivInput {
+    width: 100%;
+    display: inline;
+}
+
+.inputCss {
+    width: 50%;
+    border: 2px solid #ccc;
+    border-radius: 3px;
+    height: 15px;
+
+}
